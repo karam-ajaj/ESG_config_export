@@ -9,4 +9,4 @@ Script location: C:\Script\Export_NSX_ESG_configuration.ps1
 # Windows Task:
 * name: esg-backup
 * action: powershell -ExecutionPolicy Unrestricted -File  C:\Script\Export_NSX_ESG_configuration.ps1
-* frequency: each Saturday on 21:15
+
